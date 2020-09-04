@@ -18,7 +18,7 @@
     "jodit-react": "^1.0.33",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nookies": "^2.0.8",
     "postcss-loader": "^3.0.0",
     "query-string": "^6.9.0",
